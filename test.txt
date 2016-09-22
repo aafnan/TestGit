@@ -1,1 +1,6 @@
 Just testing out how to use this Git. 
+
+- To commit changes and push to GitHub
+	- you can check the status if you want to by typing the command --> git status
+	- OR just type --> git commit -m "the message/comment for the file" nameoffile.txt/whatever
+	- Then type the command --> git push -u origin master
